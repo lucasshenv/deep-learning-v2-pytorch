@@ -2,5 +2,4 @@
 .ipynb_checkpoints
 Cat_Dog_data
 *.pth
-*/__pycache__
 
